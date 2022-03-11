@@ -1,4 +1,4 @@
-import imp
+import importlib as imp
 import logging
 import marshal
 import ntpath
